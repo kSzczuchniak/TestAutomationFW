@@ -29,7 +29,7 @@ System.out.println(browserName);
 
 if(browserName.equals("chrome"))
 {
-	 System.setProperty("webdriver.chrome.driver", "C:\\karol\\chromeDriver\\chromedriver.exe");
+	 System.setProperty("webdriver.chrome.driver", "./drivers\\chromedriver.exe");
 	driver= new ChromeDriver();
 		//execute in chrome driver
 	
