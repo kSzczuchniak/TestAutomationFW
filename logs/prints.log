@@ -1,0 +1,3 @@
+15:25:26.478 [main] INFO  resources.base - Successfully log out valid user
+15:25:27.325 [main] INFO  resources.base - Not logged in invalid account
+15:25:38.433 [main] INFO  resources.base - Successfully closed browser

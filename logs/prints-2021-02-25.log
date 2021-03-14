@@ -1,0 +1,8 @@
+14:07:01.139 [main] INFO  resources.base - Initialize browser
+14:07:17.163 [main] INFO  resources.base - 8a.nu was opened
+14:07:18.152 [main] INFO  resources.base - LogIn valid User
+14:07:39.152 [main] INFO  resources.base - Correctly added boulder
+14:07:40.906 [main] INFO  resources.base - Successfully deleted added boulder
+14:07:54.240 [main] INFO  resources.base - Successfully log out valid user
+14:07:56.087 [main] INFO  resources.base - Not logged in invalid account
+14:08:08.448 [main] INFO  resources.base - Successfully closed browser

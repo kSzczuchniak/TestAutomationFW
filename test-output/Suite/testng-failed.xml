@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite parallel="none" name="Failed suite [Suite]">
+  <listeners>
+    <listener class-name="Testing.listeners"/>
+  </listeners>
+  <test parallel="none" name="Effort to log in valid and invalid user, which log and delete boulder(failed)">
+    <classes>
+      <class name="Testing.logInTest">
+        <methods>
+          <include name="addBoulder" invocation-numbers="1"/>
+          <include name="initialize"/>
+          <include name="teardown"/>
+        </methods>
+      </class> <!-- Testing.logInTest -->
+    </classes>
+  </test> <!-- Effort to log in valid and invalid user, which log and delete boulder(failed) -->
+</suite> <!-- Failed suite [Suite] -->
